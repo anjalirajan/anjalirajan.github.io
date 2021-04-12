@@ -1,5 +1,4 @@
 <video autoplay></video>
-<img src="">
 <canvas style="display:none;"></canvas>
 
 <script>
