@@ -1,7 +1,8 @@
+<html>
 <video autoplay></video>
 <img src="">
 <canvas style="display:none;"></canvas>
-
+</html>
 <script>
 const captureVideoButton = document.querySelector(
   "#screenshot .capture-button"
